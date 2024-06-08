@@ -1,6 +1,6 @@
 # BedChecker Proyect
 
-## Proyecto implementando en cliente tecnologias como :
+## Submodulo Cliente tecnologias como :
 - Vite
 - React
 - Capacitor
