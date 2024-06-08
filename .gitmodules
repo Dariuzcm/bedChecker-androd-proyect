@@ -1,0 +1,6 @@
+[submodule "bedchecker"]
+	path = bedchecker
+	url = https://github.com/Dariuzcm/bedchecker.git
+[submodule "bedChecker-server"]
+	path = bedChecker-server
+	url = https://github.com/Dariuzcm/bedChecker-server.git
